@@ -605,7 +605,7 @@ title_original Lord, We Thank You
 authors_lyric Arr. by Erik Mundall
 authors_music English trans. by E. M.
 
-*1 ​
+*1
 ຂອບ​ພຣະຄຸນພຣະເຈົ້າ
 ເພາະພຣະໄດ້ປະທານ
 ສິ່ງທີ່​ດີ​ໃນຊີ​ວິດ​ເຮົາ
@@ -2949,7 +2949,6 @@ title ຜູ້ເຊື່ອພຣະເຢຊູຈະໝັ້ນຄົງ�
 title_original How Firm a Foundation
 authors_lyric George Keith, 1787
 authors_music Anon., Funk's "Genuine Church Music," 1832
-George Keith, 1787
 
 *1
 ຜູ້ເຊື່ອພຣະເຢຊູຈະໝັ້ນຄົງບໍ່ເສື່ອມຄາຍ
